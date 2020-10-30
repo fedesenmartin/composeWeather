@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Compose Weather</string>
+    <string name="screen_home_title">Weather Compose</string>
 </resources>
